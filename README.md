@@ -16,4 +16,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/compds-python/blob/main/sem5-decorators.ipynb)
 
 - Seminar 6. Dicts, Sets and some questions
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/compds-python/blob/main/sem6-dict-and-set.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/compds-python/blob/main/sem6-dict-and-set.ipynb)
+
+- Seminar 7. Regular Expressions
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Podidiving/compds-python/blob/main/sem7-regexp.ipynb)
