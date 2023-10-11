@@ -29,3 +29,6 @@
 
 - Seminar 10. API and `requests`
 [seminar folder](sem10)
+
+- Seminar 11. `asyncio` and `httpx`
+[seminar folder](sem11)
