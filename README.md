@@ -32,3 +32,6 @@
 
 - Seminar 11. `asyncio` and `httpx`
 [seminar folder](sem11)
+
+- Seminar 12. `pyTelegramBotAPI` and `transformers`
+[seminar folder](sem12)
