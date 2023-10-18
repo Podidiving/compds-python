@@ -35,3 +35,6 @@
 
 - Seminar 12. `pyTelegramBotAPI` and `transformers`
 [seminar folder](sem12)
+
+- Seminar 13. `numpy`, `pandas`, `matplotlib` and `seaborn`
+[seminar folder](sem13)
