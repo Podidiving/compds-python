@@ -39,6 +39,5 @@
 - Seminar 13. `numpy`, `pandas`, `matplotlib` and `seaborn`
 [seminar folder](sem13)
 
-- Seminar 13. `doctest`, `unittest`, and `pytest
-- `
+- Seminar 13. `doctest`, `unittest`, and `pytest`
 [seminar folder](sem14)
